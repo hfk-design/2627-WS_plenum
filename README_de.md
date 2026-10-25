@@ -20,6 +20,7 @@ Wir treffen uns dieses Semester immer mittwochs 10:00–14:00 im Plenum und teil
 - [Sprechstunden-Slots](https://hfkbremen.sharepoint.com/:w:/s/Kolloquium/IQDKM4unGoiYQpfyT1qz1eB3AU9KL_1s9swOSt412VAjSP4?e=0hDmDk)
 - [Notizen](https://hfkbremen.sharepoint.com/:f:/r/sites/2627-WSBAMAPlenum/Freigegebene%20Dokumente/Forms/AllItems.aspx?id=%2Fsites%2F2627%2DWSBAMAPlenum%2FFreigegebene%20Dokumente%2FGeneral%2FNotes&p=true&share=cgqwJ%5FIu0T9sR4zTkSRAkaywEgUB8cvm%5FwqL05QchHTmf11qdQ)
 - [GitHub-Kursseite](https://github.com/hfk-design/2627-WS_plenum)
+- [Input Suggestions](https://hfkbremen.sharepoint.com/:w:/s/2627-WSBAMAPlenum/cQquy__A5wK2R49Y5wveBRbqEgUBlkMdT0QTycNhV6bOKtq5yA)
 
 ## Daten & Zeiten
 
